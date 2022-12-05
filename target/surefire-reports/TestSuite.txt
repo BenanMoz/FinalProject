@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 1, Errors: 0, Skipped: 17, Time elapsed: 3,637.476 s <<< FAILURE! - in TestSuite
+startSession(sanity.NopCommerceWeb)  Time elapsed: 3,630.956 s  <<< FAILURE!
+io.github.bonigarcia.wdm.config.WebDriverManagerException: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: chromedriver.storage.googleapis.com
+Caused by: io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: chromedriver.storage.googleapis.com
+Caused by: java.net.UnknownHostException: chromedriver.storage.googleapis.com
+

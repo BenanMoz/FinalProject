@@ -1,0 +1,11 @@
+pageObjects/nopCommerce/DesktopsPage.class
+extensions/Verifications.class
+pageObjects/nopCommerce/LoginPage.class
+utilities/ManagePages.class
+pageObjects/nopCommerce/MainPage.class
+pageObjects/nopCommerce/CategoriesPage.class
+workflows/WebFlows.class
+extensions/UIActions.class
+pageObjects/nopCommerce/ComputersPage.class
+utilities/Base.class
+utilities/CommonOps.class

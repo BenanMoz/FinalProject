@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Websuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="mytests(failed)" verbose="0">
+    <parameter name="PlatformName" value="web"/>
+    <classes>
+      <class name="sanity.NopCommerceWeb">
+        <methods>
+          <include name="test05_searchProduct"/>
+          <include name="test06_searchProduct"/>
+          <include name="test03_goToWin8andAddToCart"/>
+          <include name="startSession"/>
+          <include name="test02_mouseHoverComputers"/>
+          <include name="test04_verifyMenuBarElements"/>
+          <include name="before_method"/>
+          <include name="closeSession"/>
+          <include name="test01_verifylogin"/>
+        </methods>
+      </class> <!-- sanity.NopCommerceWeb -->
+    </classes>
+  </test> <!-- mytests(failed) -->
+</suite> <!-- Failed suite [Websuite] -->

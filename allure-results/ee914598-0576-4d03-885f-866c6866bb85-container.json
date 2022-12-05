@@ -1,0 +1,1 @@
+{"uuid":"ee914598-0576-4d03-885f-866c6866bb85","name":"sanity.NopCommerceWeb","children":["32065d99-a670-41dc-9657-d7e8289e1e3b"],"befores":[{"name":"startSession","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1652021504538,"stop":1652021515640}],"afters":[],"start":1652021504481,"stop":1652021528645}

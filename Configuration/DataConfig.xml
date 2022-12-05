@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+
+    <!--  TimeOut -->
+    <TimeOut>5</TimeOut>
+
+    <!--General-->
+    <PlatformName>web</PlatformName>
+
+    <!--Web-->
+    <BrowserName>chrome</BrowserName>
+     <url>https://demo.nopcommerce.com/</url>
+
+    <!--API-->
+    <url_api>https://reqres.in/</url_api>
+
+    <!--DataBase-->
+    <DBURL>jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11487304</DBURL>
+    <DBUserName>sql11487304</DBUserName>
+    <DBPassword>PqpN6tDEug</DBPassword>
+
+
+
+</Environment>
